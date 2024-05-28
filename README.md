@@ -17,3 +17,7 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 
 ```
+![](IMG_2862.jpg)
+|Name|Gender|Age|
+|----|------|---|
+|Data 1|Data 2|Data 3|
